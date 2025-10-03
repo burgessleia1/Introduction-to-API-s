@@ -35,4 +35,4 @@ fetch(URL)
     }
   })
   .catch(error => console.error("Error loading businesses:", error));
-=> console.error("Error fetching API:", error));
+ console.error("Error fetching API:", error);
